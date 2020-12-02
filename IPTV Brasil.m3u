@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="FOX Sport Br",
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportssd/video.m3u8
+#EXTINF:-1 tvg-id="FOX Sport Br" tvg-logo="" group-title="Canais", FOX Sport Br
+https://live.tvfolha.com/FOXSPORTS/video.m3u8
+
